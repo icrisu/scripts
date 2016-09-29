@@ -14,3 +14,5 @@ echo "install nodemon ..."
 npm install -g nodemon
 echo "install grunt cli ..."
 npm install -g grunt-cli
+echo "install PM2"
+npm install -g pm2
